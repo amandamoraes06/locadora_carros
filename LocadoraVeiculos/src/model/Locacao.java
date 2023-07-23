@@ -23,7 +23,7 @@ public class Locacao {
         this.numeroLocacao = numeroLocacao;
     }
     
-    // getters e setters
+    //métodos getters e setters
     public Veiculo getVeiculo() {
         return veiculo;
     }
